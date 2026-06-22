@@ -1,5 +1,5 @@
 {
-	"name": "@hv/astro-init",
+	"name": "@heartidentity/astro-init",
 	"version": "0.1.2",
 	"description": "Very simple astro integration, allows you to initialise an astro island (and it's content). No hydration, only vanilla js.",
 	"main": "./dist/index.js",
