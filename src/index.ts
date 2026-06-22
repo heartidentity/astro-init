@@ -21,7 +21,7 @@ function getRenderer(): AstroRenderer {
 
 export default function (options?: any): AstroIntegration {
 	return {
-		name: "@betabong/astro-init",
+		name: "@heartidentity/astro-init",
 		hooks: {
 			"astro:config:setup": async ({ addRenderer }) => {
 				addRenderer(getRenderer())
